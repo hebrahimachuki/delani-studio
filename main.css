@@ -17,3 +17,9 @@
     bottom: -20%;
     color: whitesmoke;
 }
+.about{
+    text-align: center;
+}
+.about p{
+    font-size: small;
+}
