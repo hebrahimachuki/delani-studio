@@ -1,0 +1,19 @@
+#prt1{
+    background-image: url("images/image_top.jpg");
+    background-size: cover;
+    height: 600px;
+    width: auto;
+}
+#logo{
+    position: relative;
+    bottom: -10%;
+}
+#mclick{
+    position: relative;
+    bottom: -40%;
+}
+.headers{
+    position: relative;
+    bottom: -20%;
+    color: whitesmoke;
+}
