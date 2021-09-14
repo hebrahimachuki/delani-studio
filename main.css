@@ -74,10 +74,11 @@
 .column{
     float: left;
     width: 25%;
-    padding: 20px;
+    padding: 10px;
 }
 .column img{
     height: 220px;
+    box-sizing: content-box;
 }
 #prt5{
     background-image: url("images/image_bott.jpg");
@@ -105,8 +106,34 @@
         margin-top: 20px;
      
 } 
-
-
+.col1{
+width:80%;
+margin:auto;
+position: relative;
+top: 30px;
+color: whitesmoke;
+       
+}
+.msg{
+    padding: 20px;
+    opacity: 60%;
+}
+.msg textarea{
+    resize: vertical;
+}
+.col input{
+    width: 80%;
+    opacity: 60%;   
+}
+button[type="submit"] {
+    border: none;
+    outline: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    opacity: 70%;
+    color: rgb(76, 77, 79);
+}
 
 
 
