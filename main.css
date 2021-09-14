@@ -3,6 +3,7 @@
     background-size: cover;
     height: 600px;
     width: auto;
+    padding: 40px;
 }
 #logo{
     position: relative;
@@ -18,8 +19,42 @@
     color: whitesmoke;
 }
 .about{
+    padding: 30px;
     text-align: center;
 }
 .about p{
     font-size: small;
 }
+
+#prt2{
+    background-image: url("images/image_mid.jpg");
+    background-size: cover;
+    height: 350px;
+}
+.cont2{
+    position: relative;
+    top: 30%;
+    text-align: center;
+    color: whitesmoke;
+    font-size: small;
+}
+#prt3{
+    padding: 50px;
+}
+
+#prt3 h4{
+    text-align: center;
+}
+#prt3 tr td{
+    padding-left: 120px;
+    padding-right: 180px;
+    text-align: center;
+    font-size: medium;
+
+}
+
+
+
+
+
+
