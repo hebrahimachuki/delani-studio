@@ -1,9 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
 #prt1{
     background-image: url("images/image_top.jpg");
     background-size: cover;
     height: 600px;
     width: auto;
-    padding: 40px;
+    
 }
 #logo{
     position: relative;
@@ -41,18 +46,39 @@
 #prt3{
     padding: 50px;
 }
+.clm{
+    float: left;
+    width: 33.33%;
+    padding: 2%;   
+}
+.clm img{
+    padding: 0%;
+    position: relative;
+    left: 40%;
+}
+.clm p{
+    text-align: center;
+    font-size: medium;
+}
 
 #prt3 h4{
     text-align: center;
 }
-#prt3 tr td{
-    padding-left: 120px;
-    padding-right: 180px;
-    text-align: center;
-    font-size: medium;
 
+#prt4{
+    padding: 50px;
 }
-
+#prt4 h4{
+    text-align: center;
+}
+.column{
+    float: left;
+    width: 25%;
+    padding: 20px;
+}
+.column img{
+    height: 220px;
+}
 
 
 
