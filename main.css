@@ -79,6 +79,32 @@
 .column img{
     height: 220px;
 }
+#prt5{
+    background-image: url("images/image_bott.jpg");
+    background-size: cover;
+    height: 400px;
+    padding: 40px;
+}
+#prt5 h4{
+    text-align: center;
+    color: whitesmoke;
+}
+#prt6{
+    padding: 40px;
+    
+}
+.column6{
+    float: left;
+    width: 5.55%;
+    position: relative;
+    left: 26%;
+}
+#prt6 p{
+        text-align: center;
+        font-size: smaller;
+        margin-top: 20px;
+     
+} 
 
 
 
